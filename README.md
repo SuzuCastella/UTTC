@@ -4,6 +4,8 @@
 
 予測結果の出力ファイル「submission_prediction.csv」は以下のようにしています。
 
+※submission.csv は予測結果を格納していません。予測結果は「submission_prediction.csv」です。
+
 | customerID | Churn |
 | ---------- | ----- |
 | 1024-GUALD | Yes   |
